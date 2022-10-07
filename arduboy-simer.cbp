@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="arduboy-simer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/arduboy-simer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="simavr/cores" />
+					<Add directory="simavr/cores/avr" />
+					<Add directory="simavr/sim" />
+					<Add directory="simavr/sim/avr" />
+					<Add directory="lcd" />
+					<Add directory="mem" />
+				</Compiler>
+				<Linker>
+					<Add directory="lcd" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/arduboy-simer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-std=c++14" />
+					<Add option="-std=c11" />
+					<Add directory="lcd" />
+					<Add directory="simavr/cores" />
+					<Add directory="simavr/cores/avr" />
+					<Add directory="simavr/sim" />
+					<Add directory="simavr/sim/avr" />
+					<Add directory="mem" />
+					<Add directory="SDL-1.2.15/include" />
+					<Add directory="SDL-1.2.15/lib" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="SDL-1.2.15/lib/libSDL.dll.a" />
+					<Add library="SDL-1.2.15/lib/libSDLmain.a" />
+					<Add directory="SDL-1.2.15/lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Users/lisha/Desktop/SDL-arduboy/SDL-1.2.15/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="C:/Users/lisha/Desktop/SDL-arduboy/SDL-1.2.15/lib" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="lcd/MySDL.c">
+			<Option compilerVar="CPP" />
+		</Unit>
+		<Unit filename="lcd/MySDL.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CPP" />
+		</Unit>
+		<Unit filename="mem/heap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mem/heap.h" />
+		<Unit filename="mem/mem_cfg.h" />
+		<Unit filename="simavr/cores/avr/io.h" />
+		<Unit filename="simavr/cores/avr/io1200.h" />
+		<Unit filename="simavr/cores/avr/io2313.h" />
+		<Unit filename="simavr/cores/avr/io2323.h" />
+		<Unit filename="simavr/cores/avr/io2333.h" />
+		<Unit filename="simavr/cores/avr/io2343.h" />
+		<Unit filename="simavr/cores/avr/io43u32x.h" />
+		<Unit filename="simavr/cores/avr/io43u35x.h" />
+		<Unit filename="simavr/cores/avr/io4414.h" />
+		<Unit filename="simavr/cores/avr/io4433.h" />
+		<Unit filename="simavr/cores/avr/io4434.h" />
+		<Unit filename="simavr/cores/avr/io76c711.h" />
+		<Unit filename="simavr/cores/avr/io8515.h" />
+		<Unit filename="simavr/cores/avr/io8534.h" />
+		<Unit filename="simavr/cores/avr/io8535.h" />
+		<Unit filename="simavr/cores/avr/io86r401.h" />
+		<Unit filename="simavr/cores/avr/io90pwm1.h" />
+		<Unit filename="simavr/cores/avr/io90pwm161.h" />
+		<Unit filename="simavr/cores/avr/io90pwm216.h" />
+		<Unit filename="simavr/cores/avr/io90pwm2b.h" />
+		<Unit filename="simavr/cores/avr/io90pwm316.h" />
+		<Unit filename="simavr/cores/avr/io90pwm3b.h" />
+		<Unit filename="simavr/cores/avr/io90pwm81.h" />
+		<Unit filename="simavr/cores/avr/io90pwmx.h" />
+		<Unit filename="simavr/cores/avr/io90scr100.h" />
+		<Unit filename="simavr/cores/avr/ioa5272.h" />
+		<Unit filename="simavr/cores/avr/ioa5505.h" />
+		<Unit filename="simavr/cores/avr/ioa5702m322.h" />
+		<Unit filename="simavr/cores/avr/ioa5782.h" />
+		<Unit filename="simavr/cores/avr/ioa5790.h" />
+		<Unit filename="simavr/cores/avr/ioa5790n.h" />
+		<Unit filename="simavr/cores/avr/ioa5795.h" />
+		<Unit filename="simavr/cores/avr/ioa5831.h" />
+		<Unit filename="simavr/cores/avr/ioa6285.h" />
+		<Unit filename="simavr/cores/avr/ioa6286.h" />
+		<Unit filename="simavr/cores/avr/ioa6289.h" />
+		<Unit filename="simavr/cores/avr/ioa6612c.h" />
+		<Unit filename="simavr/cores/avr/ioa6613c.h" />
+		<Unit filename="simavr/cores/avr/ioa6614q.h" />
+		<Unit filename="simavr/cores/avr/ioa6616c.h" />
+		<Unit filename="simavr/cores/avr/ioa6617c.h" />
+		<Unit filename="simavr/cores/avr/ioa664251.h" />
+		<Unit filename="simavr/cores/avr/ioat94k.h" />
+		<Unit filename="simavr/cores/avr/iocan128.h" />
+		<Unit filename="simavr/cores/avr/iocan32.h" />
+		<Unit filename="simavr/cores/avr/iocan64.h" />
+		<Unit filename="simavr/cores/avr/iocanxx.h" />
+		<Unit filename="simavr/cores/avr/iom103.h" />
+		<Unit filename="simavr/cores/avr/iom128.h" />
+		<Unit filename="simavr/cores/avr/iom1280.h" />
+		<Unit filename="simavr/cores/avr/iom1281.h" />
+		<Unit filename="simavr/cores/avr/iom1284.h" />
+		<Unit filename="simavr/cores/avr/iom1284p.h" />
+		<Unit filename="simavr/cores/avr/iom1284rfr2.h" />
+		<Unit filename="simavr/cores/avr/iom128a.h" />
+		<Unit filename="simavr/cores/avr/iom128rfa1.h" />
+		<Unit filename="simavr/cores/avr/iom128rfr2.h" />
+		<Unit filename="simavr/cores/avr/iom16.h" />
+		<Unit filename="simavr/cores/avr/iom161.h" />
+		<Unit filename="simavr/cores/avr/iom162.h" />
+		<Unit filename="simavr/cores/avr/iom163.h" />
+		<Unit filename="simavr/cores/avr/iom164.h" />
+		<Unit filename="simavr/cores/avr/iom164pa.h" />
+		<Unit filename="simavr/cores/avr/iom165.h" />
+		<Unit filename="simavr/cores/avr/iom165a.h" />
+		<Unit filename="simavr/cores/avr/iom165p.h" />
+		<Unit filename="simavr/cores/avr/iom165pa.h" />
+		<Unit filename="simavr/cores/avr/iom168.h" />
+		<Unit filename="simavr/cores/avr/iom168a.h" />
+		<Unit filename="simavr/cores/avr/iom168p.h" />
+		<Unit filename="simavr/cores/avr/iom168pa.h" />
+		<Unit filename="simavr/cores/avr/iom169.h" />
+		<Unit filename="simavr/cores/avr/iom169p.h" />
+		<Unit filename="simavr/cores/avr/iom169pa.h" />
+		<Unit filename="simavr/cores/avr/iom16a.h" />
+		<Unit filename="simavr/cores/avr/iom16hva.h" />
+		<Unit filename="simavr/cores/avr/iom16hva2.h" />
+		<Unit filename="simavr/cores/avr/iom16hvb.h" />
+		<Unit filename="simavr/cores/avr/iom16hvbrevb.h" />
+		<Unit filename="simavr/cores/avr/iom16m1.h" />
+		<Unit filename="simavr/cores/avr/iom16u2.h" />
+		<Unit filename="simavr/cores/avr/iom16u4.h" />
+		<Unit filename="simavr/cores/avr/iom2560.h" />
+		<Unit filename="simavr/cores/avr/iom2561.h" />
+		<Unit filename="simavr/cores/avr/iom2564rfr2.h" />
+		<Unit filename="simavr/cores/avr/iom256rfr2.h" />
+		<Unit filename="simavr/cores/avr/iom3000.h" />
+		<Unit filename="simavr/cores/avr/iom32.h" />
+		<Unit filename="simavr/cores/avr/iom323.h" />
+		<Unit filename="simavr/cores/avr/iom324.h" />
+		<Unit filename="simavr/cores/avr/iom324pa.h" />
+		<Unit filename="simavr/cores/avr/iom325.h" />
+		<Unit filename="simavr/cores/avr/iom3250.h" />
+		<Unit filename="simavr/cores/avr/iom3250pa.h" />
+		<Unit filename="simavr/cores/avr/iom325pa.h" />
+		<Unit filename="simavr/cores/avr/iom328p.h" />
+		<Unit filename="simavr/cores/avr/iom329.h" />
+		<Unit filename="simavr/cores/avr/iom3290.h" />
+		<Unit filename="simavr/cores/avr/iom3290pa.h" />
+		<Unit filename="simavr/cores/avr/iom32a.h" />
+		<Unit filename="simavr/cores/avr/iom32c1.h" />
+		<Unit filename="simavr/cores/avr/iom32hvb.h" />
+		<Unit filename="simavr/cores/avr/iom32hvbrevb.h" />
+		<Unit filename="simavr/cores/avr/iom32m1.h" />
+		<Unit filename="simavr/cores/avr/iom32u2.h" />
+		<Unit filename="simavr/cores/avr/iom32u4.h" />
+		<Unit filename="simavr/cores/avr/iom32u6.h" />
+		<Unit filename="simavr/cores/avr/iom406.h" />
+		<Unit filename="simavr/cores/avr/iom48.h" />
+		<Unit filename="simavr/cores/avr/iom48a.h" />
+		<Unit filename="simavr/cores/avr/iom48p.h" />
+		<Unit filename="simavr/cores/avr/iom48pa.h" />
+		<Unit filename="simavr/cores/avr/iom48pb.h" />
+		<Unit filename="simavr/cores/avr/iom64.h" />
+		<Unit filename="simavr/cores/avr/iom640.h" />
+		<Unit filename="simavr/cores/avr/iom644.h" />
+		<Unit filename="simavr/cores/avr/iom644a.h" />
+		<Unit filename="simavr/cores/avr/iom644p.h" />
+		<Unit filename="simavr/cores/avr/iom644pa.h" />
+		<Unit filename="simavr/cores/avr/iom644rfr2.h" />
+		<Unit filename="simavr/cores/avr/iom645.h" />
+		<Unit filename="simavr/cores/avr/iom6450.h" />
+		<Unit filename="simavr/cores/avr/iom649.h" />
+		<Unit filename="simavr/cores/avr/iom6490.h" />
+		<Unit filename="simavr/cores/avr/iom649p.h" />
+		<Unit filename="simavr/cores/avr/iom64a.h" />
+		<Unit filename="simavr/cores/avr/iom64c1.h" />
+		<Unit filename="simavr/cores/avr/iom64hve.h" />
+		<Unit filename="simavr/cores/avr/iom64hve2.h" />
+		<Unit filename="simavr/cores/avr/iom64m1.h" />
+		<Unit filename="simavr/cores/avr/iom64rfr2.h" />
+		<Unit filename="simavr/cores/avr/iom8.h" />
+		<Unit filename="simavr/cores/avr/iom8515.h" />
+		<Unit filename="simavr/cores/avr/iom8535.h" />
+		<Unit filename="simavr/cores/avr/iom88.h" />
+		<Unit filename="simavr/cores/avr/iom88a.h" />
+		<Unit filename="simavr/cores/avr/iom88p.h" />
+		<Unit filename="simavr/cores/avr/iom88pa.h" />
+		<Unit filename="simavr/cores/avr/iom88pb.h" />
+		<Unit filename="simavr/cores/avr/iom8a.h" />
+		<Unit filename="simavr/cores/avr/iom8hva.h" />
+		<Unit filename="simavr/cores/avr/iom8u2.h" />
+		<Unit filename="simavr/cores/avr/iomx8.h" />
+		<Unit filename="simavr/cores/avr/iomxx0_1.h" />
+		<Unit filename="simavr/cores/avr/iomxx4.h" />
+		<Unit filename="simavr/cores/avr/iomxxhva.h" />
+		<Unit filename="simavr/cores/avr/iotn10.h" />
+		<Unit filename="simavr/cores/avr/iotn11.h" />
+		<Unit filename="simavr/cores/avr/iotn12.h" />
+		<Unit filename="simavr/cores/avr/iotn13.h" />
+		<Unit filename="simavr/cores/avr/iotn13a.h" />
+		<Unit filename="simavr/cores/avr/iotn15.h" />
+		<Unit filename="simavr/cores/avr/iotn1634.h" />
+		<Unit filename="simavr/cores/avr/iotn167.h" />
+		<Unit filename="simavr/cores/avr/iotn20.h" />
+		<Unit filename="simavr/cores/avr/iotn22.h" />
+		<Unit filename="simavr/cores/avr/iotn2313.h" />
+		<Unit filename="simavr/cores/avr/iotn2313a.h" />
+		<Unit filename="simavr/cores/avr/iotn24.h" />
+		<Unit filename="simavr/cores/avr/iotn24a.h" />
+		<Unit filename="simavr/cores/avr/iotn25.h" />
+		<Unit filename="simavr/cores/avr/iotn26.h" />
+		<Unit filename="simavr/cores/avr/iotn261.h" />
+		<Unit filename="simavr/cores/avr/iotn261a.h" />
+		<Unit filename="simavr/cores/avr/iotn28.h" />
+		<Unit filename="simavr/cores/avr/iotn4.h" />
+		<Unit filename="simavr/cores/avr/iotn40.h" />
+		<Unit filename="simavr/cores/avr/iotn4313.h" />
+		<Unit filename="simavr/cores/avr/iotn43u.h" />
+		<Unit filename="simavr/cores/avr/iotn44.h" />
+		<Unit filename="simavr/cores/avr/iotn441.h" />
+		<Unit filename="simavr/cores/avr/iotn44a.h" />
+		<Unit filename="simavr/cores/avr/iotn45.h" />
+		<Unit filename="simavr/cores/avr/iotn461.h" />
+		<Unit filename="simavr/cores/avr/iotn461a.h" />
+		<Unit filename="simavr/cores/avr/iotn48.h" />
+		<Unit filename="simavr/cores/avr/iotn5.h" />
+		<Unit filename="simavr/cores/avr/iotn828.h" />
+		<Unit filename="simavr/cores/avr/iotn84.h" />
+		<Unit filename="simavr/cores/avr/iotn841.h" />
+		<Unit filename="simavr/cores/avr/iotn84a.h" />
+		<Unit filename="simavr/cores/avr/iotn85.h" />
+		<Unit filename="simavr/cores/avr/iotn861.h" />
+		<Unit filename="simavr/cores/avr/iotn861a.h" />
+		<Unit filename="simavr/cores/avr/iotn87.h" />
+		<Unit filename="simavr/cores/avr/iotn88.h" />
+		<Unit filename="simavr/cores/avr/iotn9.h" />
+		<Unit filename="simavr/cores/avr/iotnx4.h" />
+		<Unit filename="simavr/cores/avr/iotnx5.h" />
+		<Unit filename="simavr/cores/avr/iotnx61.h" />
+		<Unit filename="simavr/cores/avr/iousb1286.h" />
+		<Unit filename="simavr/cores/avr/iousb1287.h" />
+		<Unit filename="simavr/cores/avr/iousb162.h" />
+		<Unit filename="simavr/cores/avr/iousb646.h" />
+		<Unit filename="simavr/cores/avr/iousb647.h" />
+		<Unit filename="simavr/cores/avr/iousb82.h" />
+		<Unit filename="simavr/cores/avr/iousbxx2.h" />
+		<Unit filename="simavr/cores/avr/iousbxx6_7.h" />
+		<Unit filename="simavr/cores/avr/iox128a1.h" />
+		<Unit filename="simavr/cores/avr/iox128a1u.h" />
+		<Unit filename="simavr/cores/avr/iox128a3.h" />
+		<Unit filename="simavr/cores/avr/iox128a3u.h" />
+		<Unit filename="simavr/cores/avr/iox128a4u.h" />
+		<Unit filename="simavr/cores/avr/iox128b1.h" />
+		<Unit filename="simavr/cores/avr/iox128b3.h" />
+		<Unit filename="simavr/cores/avr/iox128c3.h" />
+		<Unit filename="simavr/cores/avr/iox128d3.h" />
+		<Unit filename="simavr/cores/avr/iox128d4.h" />
+		<Unit filename="simavr/cores/avr/iox16a4.h" />
+		<Unit filename="simavr/cores/avr/iox16a4u.h" />
+		<Unit filename="simavr/cores/avr/iox16c4.h" />
+		<Unit filename="simavr/cores/avr/iox16d4.h" />
+		<Unit filename="simavr/cores/avr/iox192a3.h" />
+		<Unit filename="simavr/cores/avr/iox192a3u.h" />
+		<Unit filename="simavr/cores/avr/iox192c3.h" />
+		<Unit filename="simavr/cores/avr/iox192d3.h" />
+		<Unit filename="simavr/cores/avr/iox256a3.h" />
+		<Unit filename="simavr/cores/avr/iox256a3b.h" />
+		<Unit filename="simavr/cores/avr/iox256a3bu.h" />
+		<Unit filename="simavr/cores/avr/iox256a3u.h" />
+		<Unit filename="simavr/cores/avr/iox256c3.h" />
+		<Unit filename="simavr/cores/avr/iox256d3.h" />
+		<Unit filename="simavr/cores/avr/iox32a4.h" />
+		<Unit filename="simavr/cores/avr/iox32a4u.h" />
+		<Unit filename="simavr/cores/avr/iox32c3.h" />
+		<Unit filename="simavr/cores/avr/iox32c4.h" />
+		<Unit filename="simavr/cores/avr/iox32d3.h" />
+		<Unit filename="simavr/cores/avr/iox32d4.h" />
+		<Unit filename="simavr/cores/avr/iox32e5.h" />
+		<Unit filename="simavr/cores/avr/iox384c3.h" />
+		<Unit filename="simavr/cores/avr/iox384d3.h" />
+		<Unit filename="simavr/cores/avr/iox64a1.h" />
+		<Unit filename="simavr/cores/avr/iox64a1u.h" />
+		<Unit filename="simavr/cores/avr/iox64a3.h" />
+		<Unit filename="simavr/cores/avr/iox64a3u.h" />
+		<Unit filename="simavr/cores/avr/iox64a4u.h" />
+		<Unit filename="simavr/cores/avr/iox64b1.h" />
+		<Unit filename="simavr/cores/avr/iox64b3.h" />
+		<Unit filename="simavr/cores/avr/iox64c3.h" />
+		<Unit filename="simavr/cores/avr/iox64d3.h" />
+		<Unit filename="simavr/cores/avr/iox64d4.h" />
+		<Unit filename="simavr/cores/avr/iox8e5.h" />
+		<Unit filename="simavr/cores/avr/sfr_defs.h" />
+		<Unit filename="simavr/cores/sim_core_declare.h" />
+		<Unit filename="simavr/cores/sim_mega32u4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/cores/sim_mega32u4.h" />
+		<Unit filename="simavr/sim/avr/avr_mcu_section.h" />
+		<Unit filename="simavr/sim/avr_acomp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_acomp.h" />
+		<Unit filename="simavr/sim/avr_adc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_adc.h" />
+		<Unit filename="simavr/sim/avr_bitbang.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_bitbang.h" />
+		<Unit filename="simavr/sim/avr_eeprom.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_eeprom.h" />
+		<Unit filename="simavr/sim/avr_extint.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_extint.h" />
+		<Unit filename="simavr/sim/avr_flash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_flash.h" />
+		<Unit filename="simavr/sim/avr_ioport.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_ioport.h" />
+		<Unit filename="simavr/sim/avr_lin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_lin.h" />
+		<Unit filename="simavr/sim/avr_spi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_spi.h" />
+		<Unit filename="simavr/sim/avr_timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_timer.h" />
+		<Unit filename="simavr/sim/avr_twi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_twi.h" />
+		<Unit filename="simavr/sim/avr_uart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_uart.h" />
+		<Unit filename="simavr/sim/avr_usb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_usb.h" />
+		<Unit filename="simavr/sim/avr_watchdog.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/avr_watchdog.h" />
+		<Unit filename="simavr/sim/fifo_declare.h" />
+		<Unit filename="simavr/sim/run_avr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/sim_avr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/sim_avr.h" />
+		<Unit filename="simavr/sim/sim_avr_types.h" />
+		<Unit filename="simavr/sim/sim_cmds.h" />
+		<Unit filename="simavr/sim/sim_core.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/sim_core.h" />
+		<Unit filename="simavr/sim/sim_cycle_timers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/sim_cycle_timers.h" />
+		<Unit filename="simavr/sim/sim_interrupts.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/sim_interrupts.h" />
+		<Unit filename="simavr/sim/sim_io.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/sim_io.h" />
+		<Unit filename="simavr/sim/sim_irq.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simavr/sim/sim_irq.h" />
+		<Unit filename="simavr/sim/sim_regbit.h" />
+		<Unit filename="simavr/sim/sim_time.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

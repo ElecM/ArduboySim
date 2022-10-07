@@ -1,0 +1,1 @@
+20238  mem used=13712 Bytes   Exited cleanly

@@ -1,0 +1,2501 @@
+# depslib dependency file v1.0
+1649206854 source:c:\users\lisha\desktop\arduboy-simer\lcd\mysdl.cpp
+	"MySDL.h"
+
+1653746868 c:\users\lisha\desktop\arduboy-simer\lcd\mysdl.h
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\close_code.h
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\sdl-arduboy\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1653552052 source:c:\users\lisha\desktop\arduboy-simer\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"lcd/MySDL.h"
+	<stdlib.h>
+	<stdio.h>
+	<libgen.h>
+	<string.h>
+	<signal.h>
+	"sim_avr.h"
+	"sim_core.h"
+	"run_avr.c"
+	"sim_mega32u4.h"
+
+1653648577 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_avr.h
+	"sim_irq.h"
+	"sim_interrupts.h"
+	"sim_cmds.h"
+	"sim_cycle_timers.h"
+	<stdarg.h>
+	"sim_io.h"
+	"sim_regbit.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_irq.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_interrupts.h
+	"sim_avr_types.h"
+	"sim_irq.h"
+	"fifo_declare.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_avr_types.h
+	<stdint.h>
+	<inttypes.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\fifo_declare.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_cmds.h
+	"sim_avr_types.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_cycle_timers.h
+	"sim_avr_types.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_io.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_regbit.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_core.h
+
+1653480467 c:\users\lisha\desktop\arduboy-simer\simavr\sim\run_avr.c
+
+1653646830 c:\users\lisha\desktop\arduboy-simer\simavr\cores\sim_mega32u4.h
+	"sim_avr.h"
+	"avr_eeprom.h"
+	"avr_flash.h"
+	"avr_watchdog.h"
+	"avr_extint.h"
+	"avr_ioport.h"
+	"avr_uart.h"
+	"avr_adc.h"
+	"avr_timer.h"
+	"avr_spi.h"
+	"avr_twi.h"
+	"avr_acomp.h"
+	"avr_usb.h"
+	"avr/iom32u4.h"
+	"sim_core_declare.h"
+
+1653631459 source:c:\users\lisha\desktop\arduboy-simer\simavr\cores\sim_mega32u4.c
+	"sim_mega32u4.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_eeprom.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_flash.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_watchdog.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_extint.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_ioport.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_uart.h
+	"sim_avr.h"
+	"fifo_declare.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_adc.h
+	"sim_avr.h"
+
+1653639394 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_timer.h
+	"sim_avr.h"
+
+1653555554 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_spi.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_twi.h
+	"sim_avr.h"
+
+1653639530 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_acomp.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_usb.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32u4.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\sim_core_declare.h
+
+1653639353 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_acomp.c
+	"avr_acomp.h"
+	"avr_timer.h"
+
+1653639417 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_adc.c
+	"sim_time.h"
+	"avr_adc.h"
+
+1653571945 c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_time.h
+	"sim_avr.h"
+
+1653639609 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_bitbang.c
+	"avr_bitbang.h"
+	"sim_regbit.h"
+	"sim_core.h"
+	"avr_ioport.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_bitbang.h
+	"sim_avr.h"
+	"avr_ioport.h"
+
+1653640060 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_eeprom.c
+	"avr_eeprom.h"
+
+1653640080 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_extint.c
+	"avr_extint.h"
+	"avr_ioport.h"
+
+1653640091 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_flash.c
+	"avr_flash.h"
+
+1653640099 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_ioport.c
+	"avr_ioport.h"
+
+1653640108 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_lin.c
+	"avr_lin.h"
+	"sim_time.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_lin.h
+	"sim_avr.h"
+	"avr_uart.h"
+
+1653733337 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_spi.c
+	"avr_spi.h"
+	"../../lcd/MySDL.h"
+
+1653640183 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_timer.c
+	"avr_timer.h"
+	"avr_ioport.h"
+	"sim_time.h"
+
+1653640195 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_twi.c
+	"avr_twi.h"
+
+1653640206 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_uart.c
+	"avr_uart.h"
+	"sim_time.h"
+
+1653649309 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_usb.c
+	"avr_usb.h"
+
+1653640255 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr_watchdog.c
+	"avr_watchdog.h"
+
+1653480467 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\run_avr.c
+
+1653649309 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_avr.c
+	"heap.h"
+	"sim_avr.h"
+	"sim_core.h"
+	"sim_time.h"
+	"avr_uart.h"
+	"avr/avr_mcu_section.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\sim\avr\avr_mcu_section.h
+	<stdint.h>
+
+1653555225 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_cmds.c
+	<stdlib.h>
+	<string.h>
+	"sim_avr.h"
+	"sim_cmds.h"
+	"avr_uart.h"
+	"avr/avr_mcu_section.h"
+
+1653722203 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_core.c
+	"sim_avr.h"
+	"sim_core.h"
+	"avr_flash.h"
+	"avr_watchdog.h"
+
+1653640507 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_cycle_timers.c
+	"sim_avr.h"
+	"sim_time.h"
+	"sim_cycle_timers.h"
+
+1653649309 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_interrupts.c
+	"sim_interrupts.h"
+	"sim_avr.h"
+	"sim_core.h"
+
+1653647555 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_io.c
+	"sim_io.h"
+
+1653640971 source:c:\users\lisha\desktop\arduboy-simer\simavr\sim\sim_irq.c
+	"sim_irq.h"
+	"sim_avr.h"
+
+1649206854 source:c:\users\lisha\desktop\arduboy-simer\lcd\mysdl.c
+	"MySDL.h"
+
+1653746860 source:c:\users\lisha\desktop\arduboy-simer\main.c
+	<stdlib.h>
+	<SDL/SDL.h>
+	"lcd/MySDL.h"
+	"sim_avr.h"
+	"sim_core.h"
+	"run_avr.c"
+	"sim_mega32u4.h"
+	"avr_ioport.h"
+	"heap.h"
+
+1653642564 source:c:\users\lisha\desktop\arduboy-simer\mem\heap.c
+	"heap.h"
+
+1653642520 c:\users\lisha\desktop\arduboy-simer\mem\heap.h
+	"mem_cfg.h"
+	"datatype.h"
+
+1653747025 c:\users\lisha\desktop\arduboy-simer\mem\mem_cfg.h
+
+1653641062 c:\users\lisha\desktop\arduboy-simer\mem\datatype.h
+	<avr/io.h>
+
+1653455753 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io.h
+	<avr/sfr_defs.h>
+	<avr/portpins.h>
+	<avr/common.h>
+	<avr/version.h>
+	<avr/sfr_defs.h>
+	<avr/ioat94k.h>
+	<avr/io43u32x.h>
+	<avr/io43u35x.h>
+	<avr/io76c711.h>
+	<avr/io86r401.h>
+	<avr/io90pwm1.h>
+	<avr/io90pwmx.h>
+	<avr/io90pwm2b.h>
+	<avr/io90pwmx.h>
+	<avr/io90pwm3b.h>
+	<avr/io90pwm216.h>
+	<avr/io90pwm316.h>
+	<avr/io90pwm161.h>
+	<avr/io90pwm81.h>
+	<avr/iom8u2.h>
+	<avr/iom16m1.h>
+	<avr/iom16u2.h>
+	<avr/iom16u4.h>
+	<avr/iom32c1.h>
+	<avr/iom32m1.h>
+	<avr/iom32u2.h>
+	<avr/iom32u4.h>
+	<avr/iom32u6.h>
+	<avr/iom64c1.h>
+	<avr/iom64m1.h>
+	<avr/iom128.h>
+	<avr/iom128a.h>
+	<avr/iom1280.h>
+	<avr/iom1281.h>
+	<avr/iom1284.h>
+	<avr/iom1284p.h>
+	<avr/iom128rfa1.h>
+	<avr/iom1284rfr2.h>
+	<avr/iom128rfr2.h>
+	<avr/iom2564rfr2.h>
+	<avr/iom256rfr2.h>
+	<avr/iom2560.h>
+	<avr/iom2561.h>
+	<avr/iocan32.h>
+	<avr/iocan64.h>
+	<avr/iocan128.h>
+	<avr/iousb82.h>
+	<avr/iousb162.h>
+	<avr/iousb646.h>
+	<avr/iousb647.h>
+	<avr/iousb1286.h>
+	<avr/iousb1287.h>
+	<avr/iom644rfr2.h>
+	<avr/iom64rfr2.h>
+	<avr/iom64.h>
+	<avr/iom64a.h>
+	<avr/iom640.h>
+	<avr/iom644.h>
+	<avr/iom644a.h>
+	<avr/iom644p.h>
+	<avr/iom644pa.h>
+	<avr/iom645.h>
+	<avr/iom6450.h>
+	<avr/iom649.h>
+	<avr/iom6490.h>
+	<avr/iom649p.h>
+	<avr/iom64hve.h>
+	<avr/iom64hve2.h>
+	<avr/iom103.h>
+	<avr/iom32.h>
+	<avr/iom32a.h>
+	<avr/iom323.h>
+	<avr/iom324.h>
+	<avr/iom324pa.h>
+	<avr/iom325.h>
+	<avr/iom325.h>
+	<avr/iom325pa.h>
+	<avr/iom3250.h>
+	<avr/iom3250.h>
+	<avr/iom3250pa.h>
+	<avr/iom328p.h>
+	<avr/iom329.h>
+	<avr/iom329.h>
+	<avr/iom3290.h>
+	<avr/iom3290.h>
+	<avr/iom3290pa.h>
+	<avr/iom32hvb.h>
+	<avr/iom32hvbrevb.h>
+	<avr/iom406.h>
+	<avr/iom16.h>
+	<avr/iom16a.h>
+	<avr/iom161.h>
+	<avr/iom162.h>
+	<avr/iom163.h>
+	<avr/iom164.h>
+	<avr/iom164pa.h>
+	<avr/iom165.h>
+	<avr/iom165a.h>
+	<avr/iom165p.h>
+	<avr/iom165pa.h>
+	<avr/iom168.h>
+	<avr/iom168a.h>
+	<avr/iom168p.h>
+	<avr/iom168pa.h>
+	<avr/iom169.h>
+	<avr/iom169p.h>
+	<avr/iom169pa.h>
+	<avr/iom8hva.h>
+	<avr/iom16hva.h>
+	<avr/iom16hva2.h>
+	<avr/iom16hvb.h>
+	<avr/iom16hvbrevb.h>
+	<avr/iom8.h>
+	<avr/iom8a.h>
+	<avr/iom48.h>
+	<avr/iom48a.h>
+	<avr/iom48pa.h>
+	<avr/iom48pb.h>
+	<avr/iom48p.h>
+	<avr/iom88.h>
+	<avr/iom88a.h>
+	<avr/iom88p.h>
+	<avr/iom88pa.h>
+	<avr/iom88pb.h>
+	<avr/iom8515.h>
+	<avr/iom8535.h>
+	<avr/io8535.h>
+	<avr/io8534.h>
+	<avr/io8515.h>
+	<avr/io4434.h>
+	<avr/io4433.h>
+	<avr/io4414.h>
+	<avr/iotn22.h>
+	<avr/iotn26.h>
+	<avr/io2343.h>
+	<avr/io2333.h>
+	<avr/io2323.h>
+	<avr/io2313.h>
+	<avr/iotn4.h>
+	<avr/iotn5.h>
+	<avr/iotn9.h>
+	<avr/iotn10.h>
+	<avr/iotn20.h>
+	<avr/iotn40.h>
+	<avr/iotn2313.h>
+	<avr/iotn2313a.h>
+	<avr/iotn13.h>
+	<avr/iotn13a.h>
+	<avr/iotn25.h>
+	<avr/iotn4313.h>
+	<avr/iotn45.h>
+	<avr/iotn85.h>
+	<avr/iotn24.h>
+	<avr/iotn24a.h>
+	<avr/iotn44.h>
+	<avr/iotn44a.h>
+	<avr/iotn441.h>
+	<avr/iotn84.h>
+	<avr/iotn84a.h>
+	<avr/iotn841.h>
+	<avr/iotn261.h>
+	<avr/iotn261a.h>
+	<avr/iotn461.h>
+	<avr/iotn461a.h>
+	<avr/iotn861.h>
+	<avr/iotn861a.h>
+	<avr/iotn43u.h>
+	<avr/iotn48.h>
+	<avr/iotn88.h>
+	<avr/iotn828.h>
+	<avr/iotn87.h>
+	<avr/iotn167.h>
+	<avr/iotn1634.h>
+	<avr/io90scr100.h>
+	<avr/iox8e5.h>
+	<avr/iox16a4.h>
+	<avr/iox16a4u.h>
+	<avr/iox16c4.h>
+	<avr/iox16d4.h>
+	<avr/iox32a4.h>
+	<avr/iox32a4u.h>
+	<avr/iox32c3.h>
+	<avr/iox32c4.h>
+	<avr/iox32d3.h>
+	<avr/iox32d4.h>
+	<avr/iox32e5.h>
+	<avr/iox64a1.h>
+	<avr/iox64a1u.h>
+	<avr/iox64a3.h>
+	<avr/iox64a3u.h>
+	<avr/iox64a4u.h>
+	<avr/iox64b1.h>
+	<avr/iox64b3.h>
+	<avr/iox64c3.h>
+	<avr/iox64d3.h>
+	<avr/iox64d4.h>
+	<avr/iox128a1.h>
+	<avr/iox128a1u.h>
+	<avr/iox128a4u.h>
+	<avr/iox128a3.h>
+	<avr/iox128a3u.h>
+	<avr/iox128b1.h>
+	<avr/iox128b3.h>
+	<avr/iox128c3.h>
+	<avr/iox128d3.h>
+	<avr/iox128d4.h>
+	<avr/iox192a3.h>
+	<avr/iox192a3u.h>
+	<avr/iox192c3.h>
+	<avr/iox192d3.h>
+	<avr/iox256a3.h>
+	<avr/iox256a3u.h>
+	<avr/iox256a3b.h>
+	<avr/iox256a3bu.h>
+	<avr/iox256c3.h>
+	<avr/iox256d3.h>
+	<avr/iox384c3.h>
+	<avr/iox384d3.h>
+	<avr/ioa5702m322.h>
+	<avr/ioa5782.h>
+	<avr/ioa5790.h>
+	<avr/ioa5790n.h>
+	<avr/ioa5831.h>
+	<avr/ioa5272.h>
+	<avr/ioa5505.h>
+	<avr/ioa5795.h>
+	<avr/ioa6285.h>
+	<avr/ioa6286.h>
+	<avr/ioa6289.h>
+	<avr/ioa6612c.h>
+	<avr/ioa6613c.h>
+	<avr/ioa6614q.h>
+	<avr/ioa6616c.h>
+	<avr/ioa6617c.h>
+	<avr/ioa664251.h>
+	<avr/iotn28.h>
+	<avr/io1200.h>
+	<avr/iotn15.h>
+	<avr/iotn12.h>
+	<avr/iotn11.h>
+	<avr/iom3000.h>
+	<avr/portpins.h>
+	<avr/common.h>
+	<avr/version.h>
+	<avr/xmega.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\sfr_defs.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioat94k.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io43u32x.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io43u35x.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io76c711.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io86r401.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwm1.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwmx.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwm2b.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwm3b.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwm216.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwm316.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwm161.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90pwm81.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom8u2.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16m1.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16u2.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16u4.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32c1.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32m1.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32u2.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32u6.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom64c1.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom64m1.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom128.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom128a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom1280.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iomxx0_1.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom1281.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom1284.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom1284p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom128rfa1.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom1284rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom128rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom2564rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom256rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom2560.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom2561.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iocan32.h
+	<avr/iocanxx.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iocanxx.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iocan64.h
+	<avr/iocanxx.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iocan128.h
+	<avr/iocanxx.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousb82.h
+	<avr/iousbxx2.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousbxx2.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousb162.h
+	<avr/iousbxx2.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousb646.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousbxx6_7.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousb647.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousb1286.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iousb1287.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom644rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom64rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom64.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom64a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom640.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom644.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iomxx4.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom644a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom644p.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom644pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom645.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom6450.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom649.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom6490.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom649p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom64hve.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom64hve2.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom103.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom323.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom324.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom324pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom325.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom325pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom3250.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom3250pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom328p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom329.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom3290.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom3290pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32hvb.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom32hvbrevb.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom406.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom161.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom162.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom163.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom164.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom164pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom165.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom165a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom165p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom165pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom168.h
+	<avr/iomx8.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iomx8.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom168a.h
+	"iom168.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom168p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom168pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom169.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom169p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom169pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom8hva.h
+	<avr/iomxxhva.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iomxxhva.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16hva.h
+	<avr/iomxxhva.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16hva2.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16hvb.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom16hvbrevb.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom8.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom8a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom48.h
+	<avr/iomx8.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom48a.h
+	"iom48.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom48pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom48pb.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom48p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom88.h
+	<avr/iomx8.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom88a.h
+	"iom88.h"
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom88p.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom88pa.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom88pb.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom8515.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom8535.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io8535.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io8534.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io8515.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io4434.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io4433.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io4414.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn22.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn26.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io2343.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io2333.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io2323.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io2313.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn4.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn5.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn9.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn10.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn20.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn40.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn2313.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn2313a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn13.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn13a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn25.h
+	<avr/iotnx5.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotnx5.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn4313.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn45.h
+	<avr/iotnx5.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn85.h
+	<avr/iotnx5.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn24.h
+	<avr/iotnx4.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotnx4.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn24a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn44.h
+	<avr/iotnx4.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn44a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn441.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn84.h
+	<avr/iotnx4.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn84a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn841.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn261.h
+	<avr/iotnx61.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotnx61.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn261a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn461.h
+	<avr/iotnx61.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn461a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn861.h
+	<avr/iotnx61.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn861a.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn43u.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn48.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn88.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn828.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn87.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn167.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn1634.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io90scr100.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox8e5.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox16a4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox16a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox16c4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox16d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox32a4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox32a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox32c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox32c4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox32d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox32d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox32e5.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64a1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64a1u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64b1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64b3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox64d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128a1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128a1u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128b1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128b3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox128d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox192a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox192a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox192c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox192d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox256a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox256a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox256a3b.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox256a3bu.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox256c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox256d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox384c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iox384d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5702m322.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5782.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5790.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5790n.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5831.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5272.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5505.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa5795.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6285.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6286.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6289.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6612c.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6613c.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6614q.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6616c.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa6617c.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\ioa664251.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn28.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\io1200.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn15.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn12.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iotn11.h
+
+1652577371 c:\users\lisha\desktop\arduboy-simer\simavr\cores\avr\iom3000.h
+
+1649206854 source:c:\users\lisha\desktop\workspace\arduboy-simer\lcd\mysdl.c
+	"MySDL.h"
+
+1653746868 c:\users\lisha\desktop\workspace\arduboy-simer\lcd\mysdl.h
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1653746860 source:c:\users\lisha\desktop\workspace\arduboy-simer\main.c
+	<stdlib.h>
+	<SDL/SDL.h>
+	"lcd/MySDL.h"
+	"sim_avr.h"
+	"sim_core.h"
+	"run_avr.c"
+	"sim_mega32u4.h"
+	"avr_ioport.h"
+	"heap.h"
+
+1653648577 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_avr.h
+	"sim_irq.h"
+	"sim_interrupts.h"
+	"sim_cmds.h"
+	"sim_cycle_timers.h"
+	<stdarg.h>
+	"sim_io.h"
+	"sim_regbit.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_irq.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_interrupts.h
+	"sim_avr_types.h"
+	"sim_irq.h"
+	"fifo_declare.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_avr_types.h
+	<stdint.h>
+	<inttypes.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\fifo_declare.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_cmds.h
+	"sim_avr_types.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_cycle_timers.h
+	"sim_avr_types.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_io.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_regbit.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_core.h
+
+1653480467 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\run_avr.c
+
+1653646830 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\sim_mega32u4.h
+	"sim_avr.h"
+	"avr_eeprom.h"
+	"avr_flash.h"
+	"avr_watchdog.h"
+	"avr_extint.h"
+	"avr_ioport.h"
+	"avr_uart.h"
+	"avr_adc.h"
+	"avr_timer.h"
+	"avr_spi.h"
+	"avr_twi.h"
+	"avr_acomp.h"
+	"avr_usb.h"
+	"avr/iom32u4.h"
+	"sim_core_declare.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_eeprom.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_flash.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_watchdog.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_extint.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_ioport.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_uart.h
+	"sim_avr.h"
+	"fifo_declare.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_adc.h
+	"sim_avr.h"
+
+1653639394 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_timer.h
+	"sim_avr.h"
+
+1653555554 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_spi.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_twi.h
+	"sim_avr.h"
+
+1653639530 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_acomp.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_usb.h
+	"sim_avr.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32u4.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\sim_core_declare.h
+
+1653642520 c:\users\lisha\desktop\workspace\arduboy-simer\mem\heap.h
+	"mem_cfg.h"
+	"datatype.h"
+
+1653747025 c:\users\lisha\desktop\workspace\arduboy-simer\mem\mem_cfg.h
+
+1653641062 c:\users\lisha\desktop\workspace\arduboy-simer\mem\datatype.h
+	<avr/io.h>
+
+1653455753 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io.h
+	<avr/sfr_defs.h>
+	<avr/portpins.h>
+	<avr/common.h>
+	<avr/version.h>
+	<avr/sfr_defs.h>
+	<avr/ioat94k.h>
+	<avr/io43u32x.h>
+	<avr/io43u35x.h>
+	<avr/io76c711.h>
+	<avr/io86r401.h>
+	<avr/io90pwm1.h>
+	<avr/io90pwmx.h>
+	<avr/io90pwm2b.h>
+	<avr/io90pwmx.h>
+	<avr/io90pwm3b.h>
+	<avr/io90pwm216.h>
+	<avr/io90pwm316.h>
+	<avr/io90pwm161.h>
+	<avr/io90pwm81.h>
+	<avr/iom8u2.h>
+	<avr/iom16m1.h>
+	<avr/iom16u2.h>
+	<avr/iom16u4.h>
+	<avr/iom32c1.h>
+	<avr/iom32m1.h>
+	<avr/iom32u2.h>
+	<avr/iom32u4.h>
+	<avr/iom32u6.h>
+	<avr/iom64c1.h>
+	<avr/iom64m1.h>
+	<avr/iom128.h>
+	<avr/iom128a.h>
+	<avr/iom1280.h>
+	<avr/iom1281.h>
+	<avr/iom1284.h>
+	<avr/iom1284p.h>
+	<avr/iom128rfa1.h>
+	<avr/iom1284rfr2.h>
+	<avr/iom128rfr2.h>
+	<avr/iom2564rfr2.h>
+	<avr/iom256rfr2.h>
+	<avr/iom2560.h>
+	<avr/iom2561.h>
+	<avr/iocan32.h>
+	<avr/iocan64.h>
+	<avr/iocan128.h>
+	<avr/iousb82.h>
+	<avr/iousb162.h>
+	<avr/iousb646.h>
+	<avr/iousb647.h>
+	<avr/iousb1286.h>
+	<avr/iousb1287.h>
+	<avr/iom644rfr2.h>
+	<avr/iom64rfr2.h>
+	<avr/iom64.h>
+	<avr/iom64a.h>
+	<avr/iom640.h>
+	<avr/iom644.h>
+	<avr/iom644a.h>
+	<avr/iom644p.h>
+	<avr/iom644pa.h>
+	<avr/iom645.h>
+	<avr/iom6450.h>
+	<avr/iom649.h>
+	<avr/iom6490.h>
+	<avr/iom649p.h>
+	<avr/iom64hve.h>
+	<avr/iom64hve2.h>
+	<avr/iom103.h>
+	<avr/iom32.h>
+	<avr/iom32a.h>
+	<avr/iom323.h>
+	<avr/iom324.h>
+	<avr/iom324pa.h>
+	<avr/iom325.h>
+	<avr/iom325.h>
+	<avr/iom325pa.h>
+	<avr/iom3250.h>
+	<avr/iom3250.h>
+	<avr/iom3250pa.h>
+	<avr/iom328p.h>
+	<avr/iom329.h>
+	<avr/iom329.h>
+	<avr/iom3290.h>
+	<avr/iom3290.h>
+	<avr/iom3290pa.h>
+	<avr/iom32hvb.h>
+	<avr/iom32hvbrevb.h>
+	<avr/iom406.h>
+	<avr/iom16.h>
+	<avr/iom16a.h>
+	<avr/iom161.h>
+	<avr/iom162.h>
+	<avr/iom163.h>
+	<avr/iom164.h>
+	<avr/iom164pa.h>
+	<avr/iom165.h>
+	<avr/iom165a.h>
+	<avr/iom165p.h>
+	<avr/iom165pa.h>
+	<avr/iom168.h>
+	<avr/iom168a.h>
+	<avr/iom168p.h>
+	<avr/iom168pa.h>
+	<avr/iom169.h>
+	<avr/iom169p.h>
+	<avr/iom169pa.h>
+	<avr/iom8hva.h>
+	<avr/iom16hva.h>
+	<avr/iom16hva2.h>
+	<avr/iom16hvb.h>
+	<avr/iom16hvbrevb.h>
+	<avr/iom8.h>
+	<avr/iom8a.h>
+	<avr/iom48.h>
+	<avr/iom48a.h>
+	<avr/iom48pa.h>
+	<avr/iom48pb.h>
+	<avr/iom48p.h>
+	<avr/iom88.h>
+	<avr/iom88a.h>
+	<avr/iom88p.h>
+	<avr/iom88pa.h>
+	<avr/iom88pb.h>
+	<avr/iom8515.h>
+	<avr/iom8535.h>
+	<avr/io8535.h>
+	<avr/io8534.h>
+	<avr/io8515.h>
+	<avr/io4434.h>
+	<avr/io4433.h>
+	<avr/io4414.h>
+	<avr/iotn22.h>
+	<avr/iotn26.h>
+	<avr/io2343.h>
+	<avr/io2333.h>
+	<avr/io2323.h>
+	<avr/io2313.h>
+	<avr/iotn4.h>
+	<avr/iotn5.h>
+	<avr/iotn9.h>
+	<avr/iotn10.h>
+	<avr/iotn20.h>
+	<avr/iotn40.h>
+	<avr/iotn2313.h>
+	<avr/iotn2313a.h>
+	<avr/iotn13.h>
+	<avr/iotn13a.h>
+	<avr/iotn25.h>
+	<avr/iotn4313.h>
+	<avr/iotn45.h>
+	<avr/iotn85.h>
+	<avr/iotn24.h>
+	<avr/iotn24a.h>
+	<avr/iotn44.h>
+	<avr/iotn44a.h>
+	<avr/iotn441.h>
+	<avr/iotn84.h>
+	<avr/iotn84a.h>
+	<avr/iotn841.h>
+	<avr/iotn261.h>
+	<avr/iotn261a.h>
+	<avr/iotn461.h>
+	<avr/iotn461a.h>
+	<avr/iotn861.h>
+	<avr/iotn861a.h>
+	<avr/iotn43u.h>
+	<avr/iotn48.h>
+	<avr/iotn88.h>
+	<avr/iotn828.h>
+	<avr/iotn87.h>
+	<avr/iotn167.h>
+	<avr/iotn1634.h>
+	<avr/io90scr100.h>
+	<avr/iox8e5.h>
+	<avr/iox16a4.h>
+	<avr/iox16a4u.h>
+	<avr/iox16c4.h>
+	<avr/iox16d4.h>
+	<avr/iox32a4.h>
+	<avr/iox32a4u.h>
+	<avr/iox32c3.h>
+	<avr/iox32c4.h>
+	<avr/iox32d3.h>
+	<avr/iox32d4.h>
+	<avr/iox32e5.h>
+	<avr/iox64a1.h>
+	<avr/iox64a1u.h>
+	<avr/iox64a3.h>
+	<avr/iox64a3u.h>
+	<avr/iox64a4u.h>
+	<avr/iox64b1.h>
+	<avr/iox64b3.h>
+	<avr/iox64c3.h>
+	<avr/iox64d3.h>
+	<avr/iox64d4.h>
+	<avr/iox128a1.h>
+	<avr/iox128a1u.h>
+	<avr/iox128a4u.h>
+	<avr/iox128a3.h>
+	<avr/iox128a3u.h>
+	<avr/iox128b1.h>
+	<avr/iox128b3.h>
+	<avr/iox128c3.h>
+	<avr/iox128d3.h>
+	<avr/iox128d4.h>
+	<avr/iox192a3.h>
+	<avr/iox192a3u.h>
+	<avr/iox192c3.h>
+	<avr/iox192d3.h>
+	<avr/iox256a3.h>
+	<avr/iox256a3u.h>
+	<avr/iox256a3b.h>
+	<avr/iox256a3bu.h>
+	<avr/iox256c3.h>
+	<avr/iox256d3.h>
+	<avr/iox384c3.h>
+	<avr/iox384d3.h>
+	<avr/ioa5702m322.h>
+	<avr/ioa5782.h>
+	<avr/ioa5790.h>
+	<avr/ioa5790n.h>
+	<avr/ioa5831.h>
+	<avr/ioa5272.h>
+	<avr/ioa5505.h>
+	<avr/ioa5795.h>
+	<avr/ioa6285.h>
+	<avr/ioa6286.h>
+	<avr/ioa6289.h>
+	<avr/ioa6612c.h>
+	<avr/ioa6613c.h>
+	<avr/ioa6614q.h>
+	<avr/ioa6616c.h>
+	<avr/ioa6617c.h>
+	<avr/ioa664251.h>
+	<avr/iotn28.h>
+	<avr/io1200.h>
+	<avr/iotn15.h>
+	<avr/iotn12.h>
+	<avr/iotn11.h>
+	<avr/iom3000.h>
+	<avr/portpins.h>
+	<avr/common.h>
+	<avr/version.h>
+	<avr/xmega.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\sfr_defs.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioat94k.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io43u32x.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io43u35x.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io76c711.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io86r401.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwm1.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwmx.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwm2b.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwm3b.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwm216.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwm316.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwm161.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90pwm81.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom8u2.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16m1.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16u2.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16u4.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32c1.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32m1.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32u2.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32u6.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom64c1.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom64m1.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom128.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom128a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom1280.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iomxx0_1.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom1281.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom1284.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom1284p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom128rfa1.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom1284rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom128rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom2564rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom256rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom2560.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom2561.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iocan32.h
+	<avr/iocanxx.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iocanxx.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iocan64.h
+	<avr/iocanxx.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iocan128.h
+	<avr/iocanxx.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousb82.h
+	<avr/iousbxx2.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousbxx2.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousb162.h
+	<avr/iousbxx2.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousb646.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousbxx6_7.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousb647.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousb1286.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iousb1287.h
+	<avr/iousbxx6_7.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom644rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom64rfr2.h
+	<avr/sfr_defs.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom64.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom64a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom640.h
+	<avr/iomxx0_1.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom644.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iomxx4.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom644a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom644p.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom644pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom645.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom6450.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom649.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom6490.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom649p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom64hve.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom64hve2.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom103.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom323.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom324.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom324pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom325.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom325pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom3250.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom3250pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom328p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom329.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom3290.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom3290pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32hvb.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom32hvbrevb.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom406.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom161.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom162.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom163.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom164.h
+	<avr/iomxx4.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom164pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom165.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom165a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom165p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom165pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom168.h
+	<avr/iomx8.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iomx8.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom168a.h
+	"iom168.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom168p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom168pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom169.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom169p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom169pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom8hva.h
+	<avr/iomxxhva.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iomxxhva.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16hva.h
+	<avr/iomxxhva.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16hva2.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16hvb.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom16hvbrevb.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom8.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom8a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom48.h
+	<avr/iomx8.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom48a.h
+	"iom48.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom48pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom48pb.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom48p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom88.h
+	<avr/iomx8.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom88a.h
+	"iom88.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom88p.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom88pa.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom88pb.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom8515.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom8535.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io8535.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io8534.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io8515.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io4434.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io4433.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io4414.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn22.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn26.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io2343.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io2333.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io2323.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io2313.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn4.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn5.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn9.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn10.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn20.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn40.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn2313.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn2313a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn13.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn13a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn25.h
+	<avr/iotnx5.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotnx5.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn4313.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn45.h
+	<avr/iotnx5.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn85.h
+	<avr/iotnx5.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn24.h
+	<avr/iotnx4.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotnx4.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn24a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn44.h
+	<avr/iotnx4.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn44a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn441.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn84.h
+	<avr/iotnx4.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn84a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn841.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn261.h
+	<avr/iotnx61.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotnx61.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn261a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn461.h
+	<avr/iotnx61.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn461a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn861.h
+	<avr/iotnx61.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn861a.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn43u.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn48.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn88.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn828.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn87.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn167.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn1634.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io90scr100.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox8e5.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox16a4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox16a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox16c4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox16d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox32a4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox32a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox32c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox32c4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox32d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox32d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox32e5.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64a1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64a1u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64b1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64b3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox64d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128a1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128a1u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128a4u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128b1.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128b3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox128d4.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox192a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox192a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox192c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox192d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox256a3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox256a3u.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox256a3b.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox256a3bu.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox256c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox256d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox384c3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iox384d3.h
+	<stdint.h>
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5702m322.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5782.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5790.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5790n.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5831.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5272.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5505.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa5795.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6285.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6286.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6289.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6612c.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6613c.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6614q.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6616c.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa6617c.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\ioa664251.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn28.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\io1200.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn15.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn12.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iotn11.h
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\avr\iom3000.h
+
+1653642564 source:c:\users\lisha\desktop\workspace\arduboy-simer\mem\heap.c
+	"heap.h"
+
+1653631459 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\cores\sim_mega32u4.c
+	"sim_mega32u4.h"
+
+1653639353 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_acomp.c
+	"avr_acomp.h"
+	"avr_timer.h"
+
+1653639417 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_adc.c
+	"sim_time.h"
+	"avr_adc.h"
+
+1653571945 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_time.h
+	"sim_avr.h"
+
+1653639609 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_bitbang.c
+	"avr_bitbang.h"
+	"sim_regbit.h"
+	"sim_core.h"
+	"avr_ioport.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_bitbang.h
+	"sim_avr.h"
+	"avr_ioport.h"
+
+1653640060 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_eeprom.c
+	"avr_eeprom.h"
+
+1653640080 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_extint.c
+	"avr_extint.h"
+	"avr_ioport.h"
+
+1653640091 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_flash.c
+	"avr_flash.h"
+
+1653640099 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_ioport.c
+	"avr_ioport.h"
+
+1653640108 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_lin.c
+	"avr_lin.h"
+	"sim_time.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_lin.h
+	"sim_avr.h"
+	"avr_uart.h"
+
+1653733337 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_spi.c
+	"avr_spi.h"
+	"../../lcd/MySDL.h"
+
+1653640183 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_timer.c
+	"avr_timer.h"
+	"avr_ioport.h"
+	"sim_time.h"
+
+1653640195 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_twi.c
+	"avr_twi.h"
+
+1653640206 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_uart.c
+	"avr_uart.h"
+	"sim_time.h"
+
+1653649309 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_usb.c
+	"avr_usb.h"
+
+1653640255 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr_watchdog.c
+	"avr_watchdog.h"
+
+1653480467 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\run_avr.c
+
+1653649309 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_avr.c
+	"heap.h"
+	"sim_avr.h"
+	"sim_core.h"
+	"sim_time.h"
+	"avr_uart.h"
+	"avr/avr_mcu_section.h"
+
+1652577371 c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\avr\avr_mcu_section.h
+	<stdint.h>
+
+1653722203 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_core.c
+	"sim_avr.h"
+	"sim_core.h"
+	"avr_flash.h"
+	"avr_watchdog.h"
+
+1653640507 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_cycle_timers.c
+	"sim_avr.h"
+	"sim_time.h"
+	"sim_cycle_timers.h"
+
+1653649309 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_interrupts.c
+	"sim_interrupts.h"
+	"sim_avr.h"
+	"sim_core.h"
+
+1653647555 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_io.c
+	"sim_io.h"
+
+1653640971 source:c:\users\lisha\desktop\workspace\arduboy-simer\simavr\sim\sim_irq.c
+	"sim_irq.h"
+	"sim_avr.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\close_code.h
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\users\lisha\desktop\workspace\arduboy-simer\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
